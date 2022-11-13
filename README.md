@@ -1,2 +1,2 @@
 # reservation
-## in this project, I use codeigniter
+## project with codeigniter
